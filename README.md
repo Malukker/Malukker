@@ -1,6 +1,6 @@
 ## G'day to all ! I'm Arthur Beauquesne.
 
-### Game dev, wannabee tech artist, and the rest doesn't matter much here.
+### Game dev, wannabee tech artist, and let's discuss of the rest !
 
 - 🌱 Currently learning at **IIM Digital School**
 - 📫 Reach me at **mailto:arthur.beauquesne@gmail.com** or **https://www.linkedin.com/in/arthur-beauquesne/**
